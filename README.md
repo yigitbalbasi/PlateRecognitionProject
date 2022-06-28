@@ -5,13 +5,18 @@ Mezuniyet projemin yazılımı
 
 
 Gereksinimler:
+
 OpenALPR kütüphanesi
-Kamera  //proje içerisinde laptop built-in kamera kullanılmıştır. 
-        //Harici kamera kullanımı için videoCek.py dosyası içerisindeki cv2.CaptureVideo() komudunun parametresi değiştirilmelidir.
+Kamera  
+
+//proje içerisinde laptop built-in kamera kullanılmıştır. 
+//Harici kamera kullanımı için videoCek.py dosyası içerisindeki cv2.CaptureVideo() komudunun parametresi değiştirilmelidir.
 
 OpenALPR kütüphanesinin kurulu olduğu dizin içerisinde 
+
                                           cikislar/output
                                           girisler
+                                          
                                                         adlara sahip dizinleri oluşturmalıyız.
 
 videoCek.py dosyası ubuntu konsol üzerinden "python3 videoCek.py" şeklinde çağırıldığında çalışmaya başlamaktadır. 
