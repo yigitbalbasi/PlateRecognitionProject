@@ -7,10 +7,11 @@ Mezuniyet projemin yazılımı
 Gereksinimler:
 
 OpenALPR kütüphanesi
+
 Kamera  
 
-//proje içerisinde laptop built-in kamera kullanılmıştır. 
-//Harici kamera kullanımı için videoCek.py dosyası içerisindeki cv2.CaptureVideo() komudunun parametresi değiştirilmelidir.
+proje içerisinde laptop built-in kamera kullanılmıştır. 
+Harici kamera kullanımı için videoCek.py dosyası içerisindeki cv2.CaptureVideo() komudunun parametresi değiştirilmelidir.
 
 OpenALPR kütüphanesinin kurulu olduğu dizin içerisinde 
 
@@ -24,3 +25,5 @@ Kameradan çekilen görüntüler kare kare ayrıştırılıp openalpr/cikislar/o
 Bu dizin içerisinden işlenmesini istediğimiz kareyi seçip openalpr/girisler dizinine dosyayı kopyalayıp 
 dosyanın adını "1.jpg" olarak değiştirmek gerekmektedir.
 Programın son aşamasını çalıştırmak için ubuntu konsol üzerinde "python3 resimOkuma.py" kodu çalıştırıldığında plaka okuma işlemi yapmaktadır.
+
+Ekran görüntüleri "resimler" klasörü üzerinde içerisinde verilmiştir.
