@@ -1,0 +1,2 @@
+# mezuniyetPlakaTanima
+Mezuniyet projemin yazılımı
