@@ -25,4 +25,4 @@ Bu dizin içerisinden işlenmesini istediğimiz kareyi seçip openalpr/girisler 
 dosyanın adını "1.jpg" olarak değiştirmek gerekmektedir.
 Programın son aşamasını çalıştırmak için ubuntu konsol üzerinde "python3 resimOkuma.py" kodu çalıştırıldığında plaka okuma işlemi yapmaktadır.
 
-Ekran görüntüleri "resimler" klasörü üzerinde içerisinde verilmiştir.
+Projenin çıktıları "resimler" klasörü üzerinde içerisinde verilmiştir ordan incelenebilir. 
