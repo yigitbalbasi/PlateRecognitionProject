@@ -2,6 +2,7 @@
 Mezuniyet projemin yazılımı
 
 Özet:
+Seçilen fotoğraf üzerinde plaka okuma yapma projesidir. Python kütüphaneleri ve shell script ile yazılmıştır.
 
 
 Gereksinimler:
